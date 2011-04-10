@@ -7,7 +7,7 @@
  * https://github.com/kotarok/jQuery.zip2addr
  *
  * Depends:
- *	jQuery 1.4 or above
+ *	jQuery 1.4 or above　ああああああ
  */
 
 $.fn.zip2addr = function(target){
